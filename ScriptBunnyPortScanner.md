@@ -2,7 +2,7 @@
 # For Educatiional Purposes Only 
 
 print('''
-Portscanner By:
+Portscanner Powered By:
   _________             __        __      
  /   _____/ ___________|__|______/  |_    
  \_____  \_/ ___\_  __ \  \____ \   __\   
